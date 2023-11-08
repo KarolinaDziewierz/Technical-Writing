@@ -1,4 +1,4 @@
-Below are the links to my articles written for Caspio. They are available at the publicly available [HowTo page](https://howto.caspio.com/).
+Below are the links to my articles written for Caspio. They are available at the publicly available [HowTo page](https://howto.caspio.com/):
 
 - All articles under **[Triggered actions](https://howto.caspio.com/triggered-actions/triggered-actions-2/)** section 
 
