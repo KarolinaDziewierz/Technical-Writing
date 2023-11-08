@@ -2,7 +2,7 @@ Below are the links to my articles written for Caspio. They are available at the
 
 - All articles under **[Triggered actions](https://howto.caspio.com/triggered-actions/triggered-actions-2/)** section 
 
-- [FAQ](https://howto.caspio.com/frequently-asked-questions-faq-2/) 
+- **[FAQ](https://howto.caspio.com/frequently-asked-questions-faq-2/)** 
 
 - All articles under **[Idendity providers](https://howto.caspio.com/directories/identity-providers/identity-providers/)** section 
 
