@@ -13,13 +13,13 @@
 
 **SCREENSHOTS:** Depiction of the implemented solution – example or comparison.
 
-**STEPS:** numbered, step-by-step instruction with screenshots.
+**STEPS:** numbered, step-by-step instruction with screenshots.</br>
 Steps:
 1.	Description of step 1: "Create a table for storing ticket data. In the table, add a field to store information on the assigned user..."
 2.	Description of step 2
 3.	…
 
-**NOTE:** Add this note at the end of an article which uses external code.
+**NOTE:** Add this note at the end of an article which uses external code. </br>
 "Note: This article uses external HTML, JavaScript, or third-party solutions to add functionality outside of Caspio Bridge’s standard feature set. These solutions are provided “as is” without warranty, support, or guarantee. The code within this article is provided as a sample to assist you in the customization of your web applications. You may need a basic understanding of HTML and JavaScript to implement successfully.
 For assistance with further customization based on your specific application requirements, please contact our Professional Services team."
 
