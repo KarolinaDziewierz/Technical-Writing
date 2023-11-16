@@ -8,4 +8,4 @@ Below are the links to my articles written for Caspio. They are available at the
 
 - All articles under **[App connections](https://howto.caspio.com/directories/app-connections/app-connections/)** section 
 
-- **[Release notes](https://howto.caspio.com/release-notes/caspio-41-0/)**
+- **[Release notes 41.0](https://howto.caspio.com/release-notes/caspio-41-0/)**
