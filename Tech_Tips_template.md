@@ -1,4 +1,4 @@
-<h1>Structure for Tech Tips</h1>h1>
+<h1>Structure for Tech Tips</h1>
 
 
 **TITLE:** verb in the –ing form
