@@ -7,3 +7,5 @@ Below are the links to my articles written for Caspio. They are available at the
 - All articles under **[Idendity providers](https://howto.caspio.com/directories/identity-providers/identity-providers/)** section 
 
 - All articles under **[App connections](https://howto.caspio.com/directories/app-connections/app-connections/)** section 
+
+- Release notes: [Release notes](https://howto.caspio.com/release-notes/caspio-41-0/)
