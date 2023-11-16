@@ -5,8 +5,9 @@
 
 **INTRODUCTION:** A general overview of what the solution is about; information on how/when the solution can be helpful for a user. Example of a use case.
 
-**Overview of the solution:** You can create a task to send emails with personalized content to each user so that they receive records that belong only to them. 
-Use case: "You can schedule regular reports with a list of new records or status updates on existing records, both tailored to show only the data that applies to the user that receives the email."
+**Overview of the solution:** 
+Example: "You can create a task to send emails with personalized content to each user so that they receive records that belong only to them." </br> 
+Use case: "You can schedule regular reports with a list of new records or status updates on existing records, both tailored to show only the data that applies to the user that receives the email." </br>
 Description of what will be presented in this Tech Tip: "In this article, we show how to configure a task to send daily notifications with a list of tickets assigned to every customer support representative."
 
 **OPTIONALLY PREREQUISITES:** Conditions that must be met before proceeding to the next steps.
