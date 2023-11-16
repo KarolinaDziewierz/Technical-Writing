@@ -13,8 +13,7 @@
 
 **SCREENSHOTS:** Depiction of the implemented solution – example or comparison.
 
-**STEPS:** numbered, step-by-step instruction with screenshots.</br>
-Steps:
+**STEPS:** Numbered, step-by-step instruction with screenshots.</br>
 1.	Description of step 1: "Create a table for storing ticket data. In the table, add a field to store information on the assigned user..."
 2.	Description of step 2
 3.	…
