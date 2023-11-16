@@ -11,7 +11,7 @@
 **OPTIONALLY PREREQUISITES:** Conditions that must be met before proceeding to the next steps.
 </br>Example: "Before you begin: Ensure that you have a table that stores user data with a unique ID field (preferably, as the Autonumber data type) and a field for an email address."
 
-**SCREENSHOTS:** Depiction of the implemented solution – example, or comparison.
+**SCREENSHOTS:** Depiction of the implemented solution – example or comparison.
 
 **STEPS:** numbered, step-by-step instruction with screenshots.
 Steps:
