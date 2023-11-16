@@ -5,10 +5,11 @@
 
 **INTRODUCTION:** A general overview of what the solution is about; information on how/when the solution can be helpful for a user. Example of a use case.
 
-**Overview of the solution:** 
-Example: "You can create a task to send emails with personalized content to each user so that they receive records that belong only to them." </br> 
-Use case: "You can schedule regular reports with a list of new records or status updates on existing records, both tailored to show only the data that applies to the user that receives the email." </br>
-Description of what will be presented in this Tech Tip: "In this article, we show how to configure a task to send daily notifications with a list of tickets assigned to every customer support representative."
+**Overview of the solution:** </br>
+Overview of the solution includes the following elements: </br>
+1. Example: "You can create a task to send emails with personalized content to each user so that they receive records that belong only to them." </br> 
+2. Use case: "You can schedule regular reports with a list of new records or status updates on existing records, both tailored to show only the data that applies to the user that receives the email." </br>
+3. Description of what will be presented in this Tech Tip: "In this article, we show how to configure a task to send daily notifications with a list of tickets assigned to every customer support representative."
 
 **OPTIONALLY PREREQUISITES:** Conditions that must be met before proceeding to the next steps.
 Example: "Before you begin: Ensure that you have a table that stores user data with a unique ID field (preferably, as the Autonumber data type) and a field for an email address."
