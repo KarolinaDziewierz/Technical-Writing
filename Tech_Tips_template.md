@@ -7,7 +7,7 @@
 2. Use case: "You can schedule regular reports with a list of new records or status updates on existing records, both tailored to show only the data that applies to the user that receives the email." </br>
 3. Description of what will be presented in this Tech Tip: "In this article, we show how to configure a task to send daily notifications with a list of tickets assigned to every customer support representative."
 
-**OPTIONALLY PREREQUISITES:** Conditions that must be met before proceeding to the next steps. </br></br>
+**OPTIONALLY PREREQUISITES:** Conditions that must be met before proceeding to the next steps. </br>
 Example: "Before you begin: Ensure that you have a table that stores user data with a unique ID field (preferably, as the Autonumber data type) and a field for an email address."
 
 **SCREENSHOTS:** Depiction of the implemented solution – example or comparison.
