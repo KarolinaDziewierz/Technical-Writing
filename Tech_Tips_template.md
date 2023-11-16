@@ -9,7 +9,7 @@
 3. Description of what will be presented in this Tech Tip: "In this article, we show how to configure a task to send daily notifications with a list of tickets assigned to every customer support representative."
 
 **OPTIONALLY PREREQUISITES:** Conditions that must be met before proceeding to the next steps.
-Example: "Before you begin: Ensure that you have a table that stores user data with a unique ID field (preferably, as the Autonumber data type) and a field for an email address."
+</br>Example: "Before you begin: Ensure that you have a table that stores user data with a unique ID field (preferably, as the Autonumber data type) and a field for an email address."
 
 **SCREENSHOTS:** Depiction of the implemented solution – example, or comparison.
 
